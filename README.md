@@ -7,3 +7,4 @@ Agrego segunda linea de prueba
 <a href="https://www.flaticon.es/iconos-gratis/malvavisco" title="malvavisco iconos">Malvavisco iconos creados por Freepik - Flaticon</a><br>
 <a href="https://www.flaticon.es/iconos-gratis/chocolate" title="chocolate iconos">Chocolate iconos creados por monkik - Flaticon</a><br>
 <a href="https://www.flaticon.es/iconos-gratis/dulce" title="dulce iconos">Dulce iconos creados por Freepik - Flaticon</a><br>
+<a href="https://www.flaticon.es/iconos-gratis/carrito-inteligente" title="carrito-inteligente iconos">Carrito-inteligente iconos creados por Freepik - Flaticon</a>
